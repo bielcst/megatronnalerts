@@ -1,3 +1,5 @@
+pip install riotwatcher
+pip install tweepy
 from riotwatcher import RiotWatcher, ApiError
 import time
 import tweepy
